@@ -1,5 +1,3 @@
-ds-org
-==============================
 
 This is a sample test
 
@@ -55,3 +53,6 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# testisg-repo
+This is a sample project for data science organization 
